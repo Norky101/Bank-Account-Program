@@ -1,8 +1,6 @@
 README FILE
 
 Author: Noah Pilkington
-Date: Dec 10, 2022
-Class: Intermediate Programming Java COP 2800
 
 
 INSTRUCTIONS FOR USE:
