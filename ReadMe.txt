@@ -10,8 +10,6 @@ INSTRUCTIONS FOR USE:
 3. If you want to test whether the program outputs to a file correctly run the OutputFile function (See below for further detail.)
 4. If you want to test the program and want to see the result output on an IDE or terminal, run the Driver file.
 
-All .java files are stored in Noah Pilkington COP2800 Final Project / src/ Test1
-
 
 FILES INCLUDED:
 
