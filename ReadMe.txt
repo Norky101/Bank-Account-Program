@@ -2,6 +2,8 @@ README FILE
 
 Author: Noah Pilkington
 
+Generated a Java program to help a user better understand their finances, spending and expenditure habits in the form of simulating a bank account.
+
 
 INSTRUCTIONS FOR USE:
 
